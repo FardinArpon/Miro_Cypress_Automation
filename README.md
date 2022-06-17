@@ -1,4 +1,4 @@
-# Cypress page object model automation project
+# Miro_Cypress_Automation page object model automation project
 ## Test Cases
 * Sign up with valid email
 * Attempt to sign up with invalid email
@@ -23,4 +23,3 @@ npm install
 npx cypress run --spec ./cypress/integration/Pages/* --headed --browser=chrome
 ```
 **Enter a new email in the "informations.json" file each time you run this project**
-# Miro_Cypress_Automation
